@@ -6,6 +6,6 @@ export const Footer = () => {
         <p>For connecting to our platform ,update and stay tunned </p>  
 
     </div>
-  )
-}
+  );
+};
 export default Footer;
