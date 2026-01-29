@@ -22,8 +22,8 @@ function App(){
             {x}
             <button onClick={()=>{btnclick()}}>ClickMe!</button>
             {y}
-            <FirstComponent data={x}/>
+            <FirstComponent data="Vipin Verma a great entrepreneur after learning from industrial experiemnce "/>
         </div>
     );
-}
+};
 export default App;

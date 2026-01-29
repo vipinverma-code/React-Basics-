@@ -1,6 +1,9 @@
-const FirstComponent = () => {
+const FirstComponent = (props) => {
   return (
-    <div>FirstComponent</div>
+
+    <div>
+      {props.data}
+    </div>
   )
 }
 
